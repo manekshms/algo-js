@@ -1,0 +1,14 @@
+{
+  "name": "algo-js",
+  "description": "Javascript algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Maneksh M S",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
