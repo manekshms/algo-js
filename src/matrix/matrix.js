@@ -35,6 +35,4 @@ const matrix = (n, row = 0, current = 1, array = null) => {
     return matrix(n, ++row, current, array);
 }
 
-console.log(matrix(6))
-
 module.exports = matrix;
